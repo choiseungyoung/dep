@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: choiseungyoung/spring:13
+        image: choiseungyoung/spring:14
